@@ -1,0 +1,10 @@
+sentence-transformers 
+langchain 
+langchain_milvus 
+langchain-huggingface 
+langchain-community
+ollama 
+langchain-ollama 
+pypdf 
+langchainhub   
+fastapi
